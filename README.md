@@ -14,10 +14,9 @@ When the user resizes their browser window, the site is responsive and all the e
 
 ## Screenshot
 
-![This developer portfolio contains a header with the developers name, a navigation bar, and three unique sections entitled: "About Me", "Projects", and "Contact".]
-(./images/developerportfolio.png)
+![This developer portfolio contains a header with the developers name, a navigation bar, and three unique sections entitled: "About Me", "Projects", and "Contact".](./images/developerportfolio.png)
 
 ## Links to Application
 
-- Here is a link to the repository:
-- Here is the page:
+- Here is a link to the repository: https://github.com/heatherveva/hw2.git
+- Here is the page: https://heatherveva.github.io/hw2/
