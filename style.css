@@ -159,6 +159,10 @@
   .p- {
     padding: var(--spacing-unit-small);
   }
+
+  .p2 {
+    padding: 1.5rem;
+  }
   
   .pos-a {
     position: absolute;
