@@ -91,6 +91,10 @@
   .fzmedium {
       font-size: 1.5rem;
   }
+
+  .fzsmall {
+    font-size: small;
+  }
   
   .fz\+ {
     font-size: var(--font-unit-large);
