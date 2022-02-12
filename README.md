@@ -8,7 +8,7 @@ Upon clicking the portfolio link, a user will be taken to my developer portfolio
 
 To the right of my name is the responsive navigation menu. This navigation menu allows the user to easily jump to any section of the website with one click. When the user clicks "Resume" they will be taken to a PDF of my developer resume. All other navigation elements will jump to an aptly named section on the webpage.
 
-When a user click on the section entitled "Projects", they will be taken to a photo of a recently designed website. Upon hover, the picture gets a bit larger. Upon clicking on the image, users will be taken to the webpage itself. More projects will be added to this section as my portfolio grows.
+When a user click on the section entitled "Projects", they will be taken to a photo of four recently designed websites and applications. Upon hover, the picture gets a bit larger. Upon clicking on the image, the website or application will open in a new tab.
 
 When the user resizes their browser window, the site is responsive and all the elements remain active. The elements on the webpage will adapt to the user's viewport.
 
