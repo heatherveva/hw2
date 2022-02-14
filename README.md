@@ -1,5 +1,7 @@
 # Homework Two - Developer Portfolio
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ## Description
 
 This portfolio was built using HTML and two CSS pages. One of those CSS pages is a general reset to create consistency across all browsers. The CSS page provides the styling for the HTML content.
